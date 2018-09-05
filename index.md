@@ -27,7 +27,7 @@ Syntax highlighted code block
 ```
 
 
-# Sample Program
+## Sample Program
 Here is a sample program:
 ```markdown
 public class HelloWorld {
