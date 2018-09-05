@@ -29,9 +29,11 @@ Syntax highlighted code block
 
 ### CS19300
 Things I like about 19300:
+```markdown
 -It helps with stuff we don't necessarily learn in lecture.
 -It's taught by undergraduates
 -It's only once a week
+```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
