@@ -33,6 +33,7 @@ Syntax highlighted code block
 * It's taught by undergraduates
 * It's only once a week
 
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
