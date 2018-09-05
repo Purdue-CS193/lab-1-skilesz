@@ -26,6 +26,17 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+Here is a sample program:
+```markdown
+public class HelloWorld {
+
+  public static void main(String[] args) {
+    System.out.println("Hello, world!");
+  }
+
+}
+```
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
